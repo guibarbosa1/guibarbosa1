@@ -1,6 +1,6 @@
 Hi, I'm Guilherme 
 
-Computer Engineering student at UFSCar  building machine learning systems end to end, from training data to optimized inference. I recently completed a 14-month applied research project with **Petrobras** on object detection (YOLO, PyTorch) and TensorRT optimization for embedded hardware. Currently focused on **computer vision** and **AI engineering**.
+Computer Engineering student at UFSCar building machine learning systems end to end, from training data to optimized inference. My research work applies computer vision to industrial scenarios: training and evaluating object detection models with YOLO and PyTorch, and optimizing inference with TensorRT on NVIDIA Jetson embedded devices.
 
 ### Tech stack
 
